@@ -1,0 +1,7 @@
+[PROFIL:dada]
+Aktif=1
+Gun=4
+Baslangic=15:34
+Bitis=15:39
+Ses=30
+Muzik=zil1 - Kopya (2).mp3

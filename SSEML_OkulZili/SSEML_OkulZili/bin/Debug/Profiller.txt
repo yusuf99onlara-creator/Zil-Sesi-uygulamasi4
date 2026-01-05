@@ -1,0 +1,16 @@
+[PROFIL:NormalGun]
+07:50==öğretmen hazırlık
+07:55=1=Başlangıç
+08:35=2=Başlangıç
+09:15=3=Başlangıç
+09:55==1. teneffüs
+10:10=4.=Başlangıç
+10:50=5=Başlangıç
+11:30==2. teneffüs
+11:40=6=Başlangıç
+12:20=7=Başlangıç
+13:00==Okul Kapanışı
+[PROFIL:OgleOkulu]
+14:00=8=Başlangıç
+14:40=9=Başlangıç
+15:20==öğle okulu bitiş

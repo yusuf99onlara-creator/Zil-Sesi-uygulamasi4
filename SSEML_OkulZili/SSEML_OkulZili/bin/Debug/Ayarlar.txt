@@ -1,0 +1,6 @@
+AktifProfil=OgleOkulu
+KaranlikMod=0
+SesSeviyes=100
+ZilSesi=giornos-jojo-theme.mp3
+AlarmSesi=zil1 - Kopya (2) - Kopya.mp3
+MarsSesi=felicita.mp3
